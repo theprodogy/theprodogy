@@ -36,8 +36,8 @@ I'm **revsies**, a developer from Vienna. Most of what I build is Java for Minec
 | **[BetterEnderchests](https://github.com/theprodogy/BetterEnderchests)** | Virtual Ender Chest plugin with rank sizes, pages, sharing, team chests and backups. One jar for 1.21.11 to 26.3 | Java, Paper, Folia |
 | **[FoliaShopkeepers](https://github.com/theprodogy/FoliaShopkeepers)** | Shopkeepers fork with Folia support and configurable NPC view distances | Java, Folia |
 | **[FileShare v2](https://github.com/theprodogy/FIleShare-v2)** | Real-time file sharing, built by PC optimizers for PC optimizers | JavaScript |
-| **[Lifecord](https://github.com/theprodogy/Lifecord)** | Discord mod | TypeScript |
-| **[revs-ss-tool](https://github.com/theprodogy/revs-ss-tool)** | PowerShell tooling for Windows | PowerShell |
+| **[Lifecord](https://github.com/theprodogy/Lifecord)** | Fork of Equicord | TypeScript |
+| **[revs-ss-tool](https://github.com/theprodogy/revs-ss-tool)** | Powerful Pc checking Tool| PowerShell |
 
 ---
 
